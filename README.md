@@ -1,0 +1,2 @@
+# ZshopappsShopofficial
+Shop id
